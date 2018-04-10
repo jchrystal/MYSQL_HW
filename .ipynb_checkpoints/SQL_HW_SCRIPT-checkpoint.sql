@@ -1,6 +1,3 @@
-
-
-```python
 USE sakila;
 
 -- 1A --
@@ -203,5 +200,3 @@ SELECT * FROM top_five_genres;
 
 -- 8C --
 DROP VIEW top_five_genres;
-
-```
